@@ -7,6 +7,7 @@ hello git
 hello git 
 hello git
 hello git 
+hello git
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
@@ -18,5 +19,5 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hot-fix 分支
-hot-fix 分支
+hot-fix分支已合并到master分支上了
+hot-fix分支中test.txt文件已经被修改
